@@ -4,5 +4,5 @@
 
 ## 2주차
   -Github사용법
-  
-<img width="" height="" src="./png/<20173068_심주혜_2주차과제>.jpg"></img>
+
+<img width="" height="" src="./png/<고양이>.png"></img>
