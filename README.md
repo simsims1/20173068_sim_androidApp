@@ -19,3 +19,7 @@
 ## 5주차
 <img width="200" height="300" src="./png/5주차과제1.png"></img>
 <img width="200" height="300" src="./png/5주차과제2.png"></img>
+
+## 6주차
+<img width="200" height="300" src="./png/6주차과제1.png"></img>
+<img width="200" height="300" src="./png/6주차과제2.png"></img>
