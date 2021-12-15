@@ -40,3 +40,8 @@
 
 ## 13주차
 <img width="" height="" src="./png/13주차.png"></img>
+
+## 기말
+<img width="200" height="300" src="./png/기말1.jpg"></img>
+<img width="200" height="300" src="./png/기말2.jpg"></img>
+<img width="200" height="300" src="./png/기말3.jpg"></img>
